@@ -28,5 +28,5 @@ def cetak_bilangan_ganjil(batas):
         print(nilai)
 
 # Contoh penggunaan:
-batas_tertinggi = 200
+batas_tertinggi = 100
 cetak_bilangan_ganjil(batas_tertinggi)
